@@ -84,13 +84,13 @@ rootdir: /Users/ozden/python_oop_kutuphane
 plugins: dash-3.0.0, langsmith-0.3.18, anyio-4.2.0
 collected 8 items                                                                                                                                                                                                  
 
-test_library.py::test_add_book_success PASSED                                                                                                                                                                [ 12%]
-test_library.py::test_add_book_duplicate_isbn PASSED                                                                                                                                                         [ 25%]
-test_library.py::test_add_book_empty_fields PASSED                                                                                                                                                           [ 37%]
-test_library.py::test_add_book_invalid_isbn PASSED                                                                                                                                                           [ 50%]
-test_library.py::test_list_books PASSED                                                                                                                                                                      [ 62%]
-test_library.py::test_find_book PASSED                                                                                                                                                                       [ 75%]
-test_library.py::test_remove_book PASSED                                                                                                                                                                     [ 87%]
-test_library.py::test_update_book PASSED                                                                                                                                                                     [100%]
+test_library.py::test_add_book_success PASSED                                                                                                                                                               [ 12%]<br>
+test_library.py::test_add_book_duplicate_isbn PASSED                                                                                                                                                       [ 25%]<br>
+test_library.py::test_add_book_empty_fields PASSED                                                                                                                                                           [ 37%]<br> 
+test_library.py::test_add_book_invalid_isbn PASSED                                                                                                                                                           [ 50%]<br> 
+test_library.py::test_list_books PASSED                                                                                                                                                                      [ 62%]<br> 
+test_library.py::test_find_book PASSED                                                                                                                                                                       [ 75%]<br> 
+test_library.py::test_remove_book PASSED                                                                                                                                                                     [ 87%]<br> 
+test_library.py::test_update_book PASSED                                                                                                                                                                     [100%]<br> 
 
 ================================================================================================ 8 passed in 0.01s =================================================================================================
