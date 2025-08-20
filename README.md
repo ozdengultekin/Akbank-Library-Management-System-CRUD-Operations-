@@ -18,6 +18,16 @@ Bu proje, Python kullanarak Nesne Yönelimli Programlama (OOP) prensiplerine uyg
 * Tüm veriler JSON dosyasında saklanır
 * Pytest ile test edilmiş fonksiyonlar
 
+## Proje Dosya Yapısı
+
+python_oop_kutuphane/
+│
+├── library.py          # Book ve Library sınıflarının tanımlandığı dosya
+├── main.py             # Konsol uygulamasının çalıştırıldığı ana dosya
+├── test_library.py     # Pytest ile testlerin yazıldığı dosya
+├── library.json        # Kitap verilerinin kaydedileceği JSON dosyası (ilk başta boş olabilir)
+└── README.md           # Projenin kurulumu ve kullanımı ile ilgili dökümantasyon
+
 ## Kurulum
 
 Pycharm platformunda oluşturulmuştur. 
