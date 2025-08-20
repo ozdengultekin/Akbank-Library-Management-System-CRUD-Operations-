@@ -21,12 +21,11 @@ Bu proje, Python kullanarak Nesne Yönelimli Programlama (OOP) prensiplerine uyg
 ## Proje Dosya Yapısı
 
 python_oop_kutuphane/
-│
-├── library.py          # Book ve Library sınıflarının tanımlandığı dosya<br>
-├── main.py             # Konsol uygulamasının çalıştırıldığı ana dosya
-├── test_library.py     # Pytest ile testlerin yazıldığı dosya
-├── library.json        # Kitap verilerinin kaydedileceği JSON dosyası (ilk başta boş olabilir)
-└── README.md           # Projenin kurulumu ve kullanımı ile ilgili dökümantasyon
+library.py          # Book ve Library sınıflarının tanımlandığı dosya<br>
+main.py             # Konsol uygulamasının çalıştırıldığı ana dosya
+test_library.py     # Pytest ile testlerin yazıldığı dosya
+library.json        # Kitap verilerinin kaydedileceği JSON dosyası (ilk başta boş olabilir)
+README.md           # Projenin amacı, kurulumu ve kullanımı ile ilgili dökümantasyon
 
 ## Kurulum
 
