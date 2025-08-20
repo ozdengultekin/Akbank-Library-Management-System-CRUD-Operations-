@@ -2,6 +2,8 @@
 
 Bu repo, Global AI Hub Python 202 Bootcamp ı sürecinde bitirme projesini sunmak amacıyla oluşturulmuştur. Bu süreç 3 Aşamadan oluşmaktadır.
 
+Bulunduğunuz repoda Aşama 1 için oluşturulan proje mevcuttur. 
+
 Aşama 2 ye https://github.com/ozdengultekin/Akbank-Library-Management-System_Step_2/tree/main linkinden ulaşabilirsiniz. 
  
 Aşama 3 e https://github.com/ozdengultekin/Akbank-Library-Management-System_Step_3 linkinden ulaşabilirsiniz. 
