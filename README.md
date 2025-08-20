@@ -2,6 +2,9 @@
 
 Bu repo, Global AI Hub Python 202 Bootcamp ı sürecinde bitirme projesini sunmak amacıyla oluşturulmuştur. Bu süreç 3 Aşamadan oluşmaktadır.
 
+Aşama 2 ye https://github.com/ozdengultekin/Akbank-Library-Management-System_Step_2/tree/main linkinden ulaşabilirsiniz. 
+
+Aşama 3 e 
 
 # AŞAMA 1: Python OOP Kütüphane Sistemi
 Bu proje, Python kullanarak Nesne Yönelimli Programlama (OOP) prensiplerine uygun bir **terminal tabanlı kütüphane sistemi** sağlar. Kitap ekleme, silme, güncelleme, arama ve listeleme işlemleri yapılabilir. Veriler `library.json` dosyasında kalıcı olarak saklanır.
