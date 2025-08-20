@@ -36,14 +36,9 @@ README.md           # Projenin amacı, kurulumu ve kullanımı ile ilgili dökü
 
 Pycharm IDE de oluşturulmuştur. Farklı IDE üzerinden de çalıştırılabilir. 
 1. Python 3.7+ kurulu olmalı.
-2. Proje klasörünü indirin veya klonlayın:
-
-   ```bash
-   git clone <repo_link>
-   cd python_oop_kutuphane
-   ```
+2. Proje dosyalarını indirin.
 3. Gereken paketleri yükleyin (opsiyonel, proje için standart Python yeterli):
-
+Terminalden
    ```bash
    pip install pytest
    ```
