@@ -34,7 +34,7 @@ README.md           # Projenin amacı, kurulumu ve kullanımı ile ilgili dökü
 
 ## Kurulum
 
-Pycharm platformunda oluşturulmuştur. 
+Pycharm IDE de oluşturulmuştur. Farklı IDE üzerinden de çalıştırılabilir. 
 1. Python 3.7+ kurulu olmalı.
 2. Proje klasörünü indirin veya klonlayın:
 
